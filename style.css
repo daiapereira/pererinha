@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho{
+    background-color: escolha uma crimson;
+    color: escolha uma chocolate;
+    font-size: 10px;
+    display: flex;
+    justify-content: baseline;
+}
+.cabecalho-imagem{
+    width: 10%;
+    height: 10%;
+}
